@@ -1,0 +1,8 @@
+[server] INFO: Device: [Xiaomi] Redmi M2101K7AG (Android 12)
+scrcpy 2.7 <https://github.com/Genymobile/scrcpy>
+INFO: ADB device found:
+INFO:     -->   (usb)  46be9475                        device  M2101K7AG
+INFO: Renderer: opengl
+INFO: OpenGL version: 4.6 (Compatibility Profile) Mesa 24.2.5-arch1.1
+INFO: Trilinear filtering enabled
+INFO: Texture: 608x1080
